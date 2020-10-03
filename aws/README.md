@@ -4,7 +4,7 @@
 
 > AWS SAM は言うならば、 AWS CloudFormation (以降 CFn) のサーバーレス拡張 です。AWS SAM の各リソースは CFn のこれまでのリソース定義と似たフォーマットで定義されており、このフォーマットで記述されたテンプレートを CFn に渡すことで、スタックとして AWS 上に展開することができます。
 
-ref: https://dev.classmethod.jp/articles/aws-serverless-application-model/
+ref. https://dev.classmethod.jp/articles/aws-serverless-application-model/
 
 - https://aws.amazon.com/jp/blogs/news/webinar-bb-aws-serverless-application-model-2019/
 - https://qiita.com/hayao_k/items/7827c3778a23c514e196
