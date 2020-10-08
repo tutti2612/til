@@ -1,4 +1,7 @@
-[CSSセレクタのチートシート](https://webliker.info/css-selector-cheat-sheet/)
+## チートシート
+
+- [Flexbox Cheat Site](https://kuroppe1819.github.io/flexbox-cheat-site/)
+- [CSSセレクタのチートシート](https://webliker.info/css-selector-cheat-sheet/)
 
 ## 半角英数が枠からはみ出る
 
