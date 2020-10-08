@@ -9,3 +9,4 @@
 - [word-breakとword-wrapはややこしい](https://w3g.jp/blog/confusing_word-break_word-wrap)
 - [word-break - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/word-break)
 - [overflow-wrap - CSS: カスケーディングスタイルシート | MDN](https://developer.mozilla.org/ja/docs/Web/CSS/overflow-wrap)
+- [テキストを折り返す方法！自動で改行・レスポンシブにも対応](https://creive.me/archives/17653/)
