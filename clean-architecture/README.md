@@ -15,5 +15,5 @@
 - [Clean ArchitectureでAPI Serverを構築してみる](https://qiita.com/hirotakan/items/698c1f5773a3cca6193e)
 	- Go での実装の参考に
 
-- API サーバーを Clean Architecture で構築する(https://tech-blog.optim.co.jp/entry/2019/01/29/173000)
+- [API サーバーを Clean Architecture で構築する](https://tech-blog.optim.co.jp/entry/2019/01/29/173000)
 	- Go
