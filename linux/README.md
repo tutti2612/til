@@ -4,7 +4,15 @@
 
 ## grep
 
-[grepでディレクトリ以下の全てのファイルを検索する](https://www.t3a.jp/blog/infrastructure/grep-search-file/)
+```bash
+find (検索対象のフォルダ) -type f | xargs grep (検索する文字列)
+```
+
+```bash
+grep -r (検索する文字列) (検索対象のフォルダ)
+```
+
+ref. [grepでディレクトリ以下の全てのファイルを検索する](https://www.t3a.jp/blog/infrastructure/grep-search-file/)
 
 ## ACL
 
